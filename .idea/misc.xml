@@ -9,6 +9,7 @@
         <entry key="app/src/main/res/drawable/ic_baseline_miscellaneous_services_24.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="app/src/main/res/layout/app_bar_main.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/card_view_model.xml" value="0.19583333333333333" />
         <entry key="app/src/main/res/layout/content_main.xml" value="0.22" />
         <entry key="app/src/main/res/layout/fragment_gallery.xml" value="0.19583333333333333" />
         <entry key="app/src/main/res/layout/fragment_home.xml" value="0.19583333333333333" />
